@@ -35,7 +35,7 @@
 
 | 🖥️ Dashboard | 📄 Intelligence Report |
 |:---:|:---:|
-| ![Dashboard](https://placehold.co/500x280/1a1a2e/FF4B4B?text=YouTube+Intel+Dashboard&font=montserrat) | ![Report](https://placehold.co/500x280/1a1a2e/ffffff?text=AI+Report+Output&font=montserrat) |
+| ![Dashboard](image01.png) | ![Report](image.png) |
 
 </div>
 
